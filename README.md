@@ -4,9 +4,9 @@
 
 #### Features
 
-- **3D Interaction** - COMING SOON
+- **3D Interaction**: Engage with 3D models through simple gestures or mouse movements.
 
-- **Gesture Recognition** - COMING SOON
+- **Gesture Recognition**: Advanced gesture recognition technology to interpret hand movements.
 
 - **User-Friendly Interface** - COMING SOON
 
